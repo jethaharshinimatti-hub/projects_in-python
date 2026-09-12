@@ -1,0 +1,25 @@
+# LeetCode Analyzer
+
+A Streamlit-based web application that analyzes LeetCode problem-solving performance and provides insights through interactive visualizations.
+
+## Features
+- Upload LeetCode submission data
+- Analyze solved problems by difficulty
+- Track progress and performance trends
+- Interactive charts and statistics
+
+## Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the application:
+   streamlit run app.py
+
+## Author
+Harshini Matti
